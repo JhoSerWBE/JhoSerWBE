@@ -1,16 +1,24 @@
-## Hi there 👋
+<img align="left" src="ascii-art.png" width="380" alt="Mi foto ASCII">
 
-<!--
-**JhoSerWBE/JhoSerWBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+JhoSerWBE@github -------------------------
+. OS: ...................... Windows / Linux
+. Uptime: .................. N years
+. Location: ................ Lima, Peru
+. Role: .................... Software & Systems Eng. Student
+. IDE: ..................... VS Code / intellij 
 
-Here are some ideas to get you started:
+. Languages.Web: ........... HTML, CSS, JavaScript
+. Languages.Tech: .......... Cisco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. Hobbies.Software: ........ TikTok Educational Content, CSS Debugging
+. Hobbies.Hardware: ........ Custom Melamine Desk Builds
+. Hobbies.Life: ............ Piano (JL-Johnson), Hydroponic Gardening
+
+- Contact
+. Email: ................... JSspaceV.Quantum@gmail.com
+. LinkedIn: ................ www.linkedin.com/in/jhon-sergio-ureta-diaz
+
+. GitHub Stats
+. Repos: ..... 3 | Stars: ....... 3
+. Commits: ... 10 | Followers: ... 0
